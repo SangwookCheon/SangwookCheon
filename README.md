@@ -1,5 +1,5 @@
-# Who am I?
-Content. 
+# Hello!
+I am a high school student passionate about data, interactive computing, computer education, and human-computer interaction.  
 
 
 <!--
