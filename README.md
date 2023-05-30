@@ -1,8 +1,11 @@
 # Hello!
-I am a high school student passionate about data, interactive computing, computer education, and human-computer interaction.  
 
 
 <!--
+
+I am a high school student passionate about data, interactive computing, computer education, and human-computer interaction.  
+
+
 **SangwookCheon/SangwookCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
